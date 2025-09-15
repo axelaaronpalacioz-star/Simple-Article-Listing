@@ -1,4 +1,4 @@
-# Ejercicio 1 : Newsletter
+# Ejercicio 2 : imple Article Listing
 
 ---
 
