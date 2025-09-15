@@ -20,7 +20,7 @@ El proyecto consiste en la réplica visual de una sección de artículos tecnol�
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/axelaaronpalacioz-star/Simple-Article-Listing
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: https://axelaaronpalacioz-star.github.io/Simple-Article-Listing/
 ---
 
 ## 📝 Reflexión
