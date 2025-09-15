@@ -3,12 +3,12 @@
 ---
 
 - Nombre: Axel Aaron Palacios Hernandez
-- Número de Control: 23150311
+- Número de Control:23150311
 
 ---
 
 ## 📌 Descripción
-Este proyecto consiste en una interfaz web sencilla y moderna para la suscripción a un boletín informativo (newsletter). La página invita a los usuarios a unirse para recibir novedades, promociones y ofertas exclusivas.
+El proyecto consiste en la réplica visual de una sección de artículos tecnológicos. El diseño incluye un encabezado principal que presenta el tema, seguido de una lista de artículos organizados en tarjetas. Cada tarjeta muestra una imagen ilustrativa, el título del artículo y la fecha de publicación.
 
 ---
 
@@ -19,9 +19,9 @@ Este proyecto consiste en una interfaz web sencilla y moderna para la suscripci�
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/axelaaronpalacioz-star/Newsletter.git
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: [Pega aquí tu enlace]  
+Deploy: [LINK](http://yomidev.github.io/newsletter/)
 ---
 
 ## 📝 Reflexión
-Durante la práctica aprendí la importancia de observar con detalle cada parte de una interfaz: desde la alineación de los textos hasta el espaciado de los botones y cuadros de entrada. Una dificultad fue lograr que la réplica se pareciera lo más posible a la página original, especialmente en la tipografía y el espaciado.
+En este ejercicio aprendí la importancia de organizar la información de forma clara y atractiva. Una de las principales dificultades fue lograr que las imágenes y los textos mantuvieran un buen equilibrio visual, especialmente en el alineado horizontal y el espaciado entre cada artículo.

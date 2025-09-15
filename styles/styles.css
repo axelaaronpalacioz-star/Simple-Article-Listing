@@ -1,82 +1,56 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    color: rgb(55, 65, 81);
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 body {
-    height: 100vh;
-    width: 100vw;
-    padding-top: 50px;
-}
-
-#card{
-    max-width: 550px;
-    padding: 50px;
-    border-radius: 15px;
-    margin: 0 auto;
-    background-color: #fff;
-}
-
-.herder-card img{
-    width: 50px;
-    margin-top: 20px;
-    border-radius: 50%;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
 }
 
 .title {
-    font-size: 20px;
-    letter-spacing: 1.5px;
-    margin-top: 15px;
-    font-weight: bold;
-    color: #000;
-    margin-bottom: 20px;
-    font-size: 30px;   
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  max-width: 700px;
 }
 
-
-.description{
-    font-size: 12px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 500;
+.title h1 {
+  margin-bottom: 40px;
 }
 
-.social-links{
-    margin-top: 25px;
-}
-
-#sub{
-    max-width: 400px;
-    padding: 20px;
-    margin: 0 auto;
-    background-color: #fff;
+.title p{
+    color: grey;
+    opacity: .5;
 }
 
 .author-info {
-    font-size: 14px;
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 30px;  
 }
 
-.author-info input{
-    border: transparent;
-    margin-bottom: 30px;
-    color: #000;
+.articulos{
+  display: flex;
+  margin-bottom: 30px;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
-.author-info a {
-    text-decoration: none;
-    display: block;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    background-color: cornflowerblue;
-    margin-bottom: 20px;
-    padding: 8px 0;
-    border-radius: 10px;
+.author-info-img img{ 
+  border-radius: 10px;
 }
 
-#sub p{
-    font-size: 10px;
+.author-info h2 {
+  margin-top: 15px;
+  color: #333;
+}
+
+.author-info p {
+  color: #777;
+}
+
+@media screen and (max-width:480px){
+  .articulos{
+    display: contents;
+  }
 }
